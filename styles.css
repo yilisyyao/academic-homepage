@@ -274,7 +274,7 @@ p {
 
 h1 {
   margin-bottom: 4px;
-  font-size: clamp(32px, 8vw, 112px);
+  font-size: clamp(36px, 8vw, 112px);
   font-weight: 850;
   line-height: 0.96;
 }
